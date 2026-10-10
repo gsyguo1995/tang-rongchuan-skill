@@ -39,6 +39,8 @@ user-invocable: true
 | 中西汇通/医史讨论 | modules/02 医经精义 + persona 智识谱系 |
 | 入门症状速查 | modules/03 医学见能（见是证用是方） |
 | 医易/象数 | modules/05 医易通说 |
+| 伤寒/金匮条文与经方源流 | modules/06、07（补正两书）→ references/10-jingfang-buzheng.md |
+| 痢疾/肠道湿热 | modules/08 痢症三字诀 |
 | 超出知识库 | 明说"唐氏書中未載"，禁止编造 |
 
 ---
@@ -166,4 +168,4 @@ user-invocable: true
 
 ## 版本
 
-v1.0.0（2026-10-09）· local-first 蒸馏（Distilly 流程 + tcm-distiller 维度标准简化版）
+v1.1.0（2026-10-10）· S14b 增量蒸馏：伤寒论浅注补正/金匮要略浅注补正/痢症三字诀 三部入库（5部→8部，汇通论证升级至经方条文级）。变更记录见 CHANGELOG.md。
